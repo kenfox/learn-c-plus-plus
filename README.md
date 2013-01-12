@@ -13,3 +13,5 @@ Resources and examples for learning the C++ programming language.
 * Bucky's C++ tutorial videos (slower paced, short videos for beginners): http://www.youtube.com/course?list=ECAE85DE8440AA6B83
 * Stephan T. Lavavej's core C++ video blog (intermediate to advanced level): http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-/Stephan-T-Lavavej-Core-C-1-of-n?format=html5
 * Stack Overflow covers Q&A on all programming topics including C++: http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+
+Add this line.
