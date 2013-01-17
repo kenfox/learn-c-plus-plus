@@ -21,10 +21,20 @@ Smart Dashboard:
 
 * http://www.youtube.com/watch?v=qnS6O04Yjrc
 
-On-Line FRC C++ Documentation:
+2013 On-Line FRC C++ Documentation:
 
 * Getting Started with C++ http://wpilib.screenstepslive.com/s/3120/m/7913
 * WPILib Programming http://wpilib.screenstepslive.com/s/3120/m/7912
+
+2012 FRC C++ Documentation:
+
+The 2013 documentation hasn't caught up completely with the 2012 material.
+If you can't find information in the links above, try this, but watch out
+for changes. Mainly bug fixes and improvements, but some SmartDashboard
+and RobotBuilder has changed.
+
+* https://raw.github.com/FRC3322/learn-c-plus-plus/master/2012-WPILibCookbook.pdf
+* https://raw.github.com/FRC3322/learn-c-plus-plus/master/2012-WPILibUsersGuide.pdf
 
 General C++ Programming
 =======================
