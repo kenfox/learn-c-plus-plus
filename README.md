@@ -21,10 +21,20 @@ Smart Dashboard:
 
 * http://www.youtube.com/watch?v=qnS6O04Yjrc
 
-On-Line FRC C++ Documentation:
+2013 On-Line FRC C++ Documentation:
 
 * Getting Started with C++ http://wpilib.screenstepslive.com/s/3120/m/7913
 * WPILib Programming http://wpilib.screenstepslive.com/s/3120/m/7912
+
+2012 FRC C++ Documentation:
+
+The 2013 documentation hasn't caught up completely with the 2012 material.
+If you can't find information in the links above, try this, but watch out
+for changes. Mainly bug fixes and improvements, but some SmartDashboard
+and RobotBuilder has changed.
+
+* https://raw.github.com/FRC3322/learn-c-plus-plus/master/2012-WPILibCookbook.pdf
+* https://raw.github.com/FRC3322/learn-c-plus-plus/master/2012-WPILibUsersGuide.pdf
 
 General C++ Programming
 =======================
@@ -41,5 +51,3 @@ Resources and examples for learning the C++ programming language.
 * Bucky's C++ tutorial videos (slower paced, short videos for beginners): http://www.youtube.com/course?list=ECAE85DE8440AA6B83
 * Stephan T. Lavavej's core C++ video blog (intermediate to advanced level): http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-/Stephan-T-Lavavej-Core-C-1-of-n?format=html5
 * Stack Overflow covers Q&A on all programming topics including C++: http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
-
-Add this line.
