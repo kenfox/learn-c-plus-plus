@@ -1,5 +1,33 @@
-learn-c-plus-plus
-=================
+C++ Robot Programming
+=====================
+
+FRC 2013 examples and tutorials for learning how to use C++ to program the robot.
+Unfortunately the videos use Java. The FRC library for robot programming
+is almost identical between Java and C++ so the videos are still useful--just don't
+expect to type in the code exactly as shown.
+
+If you don't know C++ see below for the section on general C++ programming.
+
+Robot Builder and Command-based robots (multi-part watch in order):
+
+1. http://www.youtube.com/watch?v=k7PaYcjDEDc
+1. http://www.youtube.com/watch?v=1WLk1_Ye_U8
+1. http://www.youtube.com/watch?v=NU2Ok169km4
+1. http://www.youtube.com/watch?v=voleDDtwcfk
+1. http://www.youtube.com/watch?v=NquObtM1bXg
+1. http://www.youtube.com/watch?v=Y1GGCM2Re5Y
+
+Smart Dashboard:
+
+* http://www.youtube.com/watch?v=qnS6O04Yjrc
+
+On-Line FRC C++ Documentation:
+
+* Getting Started with C++ http://wpilib.screenstepslive.com/s/3120/m/7913
+* WPILib Programming http://wpilib.screenstepslive.com/s/3120/m/7912
+
+General C++ Programming
+=======================
 
 Resources and examples for learning the C++ programming language.
 
